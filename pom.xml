@@ -4,7 +4,7 @@
 
 	<groupId>86f0249b-2119-4d3e-8403-2e6b5628dfd1</groupId>
 	<artifactId>cicd_test_project</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
 	<name>cicd_test_project</name>
