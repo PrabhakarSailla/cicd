@@ -7,7 +7,7 @@ http://maven.apache.org/xsd/settings-1.0.0.xsd">
     <server>
       <id>anypoint-connected-app</id>
       <username>~~~Client~~~</username>
-      <password>769ee329c04e4ae79ad0225fe034fe83~?~9897A1fc741f46f5a58D11F473f51F8b</password>
+      <password>${CLIENT_ID}~?~${CLIENT_SECRET}</password>
     </server>
   </servers>
 </settings>
