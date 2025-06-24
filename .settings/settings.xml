@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+http://maven.apache.org/xsd/settings-1.0.0.xsd">
+  <servers>
+    <server>
+      <id>anypoint-connected-app</id>
+      <username>~~~Client~~~</username>
+      <password>769ee329c04e4ae79ad0225fe034fe83~?~9897A1fc741f46f5a58D11F473f51F8b</password>
+    </server>
+  </servers>
+</settings>
